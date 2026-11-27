@@ -1,0 +1,523 @@
+{
+  "updatedAt": 1795785999306,
+  "items": [
+    {
+      "name": "بطاطا مقلية (وسط)",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/yFN3M6wH/IMG-20261118-023751-344.jpg"
+    },
+    {
+      "name": "بطاطا مقلية (كبير)",
+      "desc": "",
+      "price": "30 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/yFN3M6wH/IMG-20261118-023751-344.jpg"
+    },
+    {
+      "name": "كريم ثوم",
+      "desc": "",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/xKfCdD7W/IMG-20261125-211707-415.jpg"
+    },
+    {
+      "name": "كاتشب",
+      "desc": "صوص كاتشب",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/xKt4jGfG/1795639560115.jpg"
+    },
+    {
+      "name": "كول سلو",
+      "desc": "",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/mF9gv7bZ/IMG-20261125-211722-486.jpg"
+    },
+    {
+      "name": "محمرة بالخبز",
+      "desc": "",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/CpFkpNG4/IMG-20261125-211719-111.jpg"
+    },
+    {
+      "name": "مخللات",
+      "desc": "",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/NQWsQyT/IMG-20261125-WA0186.jpg"
+    },
+    {
+      "name": "سلطة خضار موسمية",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/PGjjSQqf/IMG-20261125-211758-858.jpg"
+    },
+    {
+      "name": "سلطة سيزر",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/KxMkt37f/IMG-20261125-211727-100.jpg"
+    },
+    {
+      "name": "سلطة التونة",
+      "desc": "",
+      "price": "50 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/4wJkPxjK/IMG-20261125-211924-373.jpg"
+    },
+    {
+      "name": "فتوش",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/rGyvqb3j/IMG-20261125-211711-370.jpg"
+    },
+    {
+      "name": "صوص كوكتيل",
+      "desc": "",
+      "price": "5 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/5x8xC2gj/IMG-20261125-211829-056.jpg"
+    },
+    {
+      "name": "خضار مشوية",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/B2gLzDBP/IMG-20261118-023741-924.jpg"
+    },
+    {
+      "name": "حمص ناعم",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المقبلات",
+      "image": "https://i.ibb.co/pjgjK8SY/images-3.jpg"
+    },
+    {
+      "name": "قهوة غلي",
+      "desc": "",
+      "price": "15 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=300&q=80"
+    },
+    {
+      "name": "شاي",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=300&q=80"
+    },
+    {
+      "name": "شاي اخضر",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=300&q=80"
+    },
+    {
+      "name": "ميلو",
+      "desc": "",
+      "price": "13 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=300&q=80"
+    },
+    {
+      "name": "كابوتشينو",
+      "desc": "",
+      "price": "13 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1534778101976-62847782c213?w=300&q=80"
+    },
+    {
+      "name": "نسكافيه",
+      "desc": "",
+      "price": "13 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&q=80"
+    },
+    {
+      "name": "3 ب 1",
+      "desc": "",
+      "price": "13 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=300&q=80"
+    },
+    {
+      "name": "2 ب 1",
+      "desc": "",
+      "price": "13 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&q=80"
+    },
+    {
+      "name": "زهورات شامية",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=300&q=80"
+    },
+    {
+      "name": "بابونج",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=300&q=80"
+    },
+    {
+      "name": "كمون وليمون",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=300&q=80"
+    },
+    {
+      "name": "عصير برتقال فريش",
+      "desc": "",
+      "price": "23 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=300&q=80"
+    },
+    {
+      "name": "بولو",
+      "desc": "ليمون ونعنع طازج",
+      "price": "20 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=300&q=80"
+    },
+    {
+      "name": "ليموناضة",
+      "desc": "",
+      "price": "18 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=300&q=80"
+    },
+    {
+      "name": "أرجيلة تفاحتين",
+      "desc": "",
+      "price": "23 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZTc0YzNjIiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzAzOTJiIiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiNjMDM5MmIiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMzkyYiIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iI2MwMzkyYiIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "أرجيلة فاخر",
+      "desc": "",
+      "price": "23 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjFjNDBmIiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZDRhZjM3IiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiNkNGFmMzciIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Q0YWYzNyIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iI2Q0YWYzNyIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "أرجيلة بولو",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMmVjYzcxIiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMjdhZTYwIiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiMyN2FlNjAiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI3YWU2MCIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iIzI3YWU2MCIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "أرجيلة لوف",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmQ3OWE4IiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZTg0MzkzIiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiNlODQzOTMiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2U4NDM5MyIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iI2U4NDM5MyIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "أرجيلة نعنع",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNTVlZmM0IiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBiODk0IiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiMwMGI4OTQiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwYjg5NCIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iIzAwYjg5NCIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "أرجيلة علكة",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "المشاريب والأراكيل",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAgMjAwIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTIlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNzRiOWZmIiBzdG9wLW9wYWNpdHk9IjAuMzgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMxNDExMGIiIHN0b3Atb3BhY2l0eT0iMC45NSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNzA3MDciIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZ29sZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmYwYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0NSUiIHN0b3AtY29sb3I9IiNkNGFmMzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOGM2YTA4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnbGFzcyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDk4NGUzIiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiMwOTg0ZTMiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjcwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjIyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA5ODRlMyIgc3RvcC1vcGFjaXR5PSIwLjgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImVtYmVyIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI1MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmNGI4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdG9wLWNvbG9yPSIjZmY2YTAwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2MwMjAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzbW9rZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZmZmZmIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIEx1eHVyeSBEYXJrIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gU3VidGxlIFNtb2tlIFdpc3BzIC0tPgogIDxwYXRoIGQ9Ik0xMDAgNDQgQzkwIDM0LCAxMTIgMjQsIDk2IDEyIEM4OCA2LCA5OCAyLCAxMDQgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ1cmwoI3Ntb2tlKSIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cGF0aCBkPSJNMTA2IDQ2IEMxMTggMzYsIDEwMiAyMiwgMTE4IDEwIiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjMuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTk0IDQ2IEM4MiAzNiwgOTQgMjQsIDgwIDE0IiBmaWxsPSJub25lIiBzdHJva2U9InVybCgjc21va2UpIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CgogIDwhLS0gR2xvd2luZyBDaGFyY29hbCBFbWJlciAtLT4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iNDYiIHJ4PSIxNCIgcnk9IjgiIGZpbGw9InVybCgjZW1iZXIpIi8+CiAgPHJlY3QgeD0iOTMiIHk9IjQyIiB3aWR0aD0iNiIgaGVpZ2h0PSI1IiByeD0iMS41IiBmaWxsPSIjZmY3YjAwIiBzdHJva2U9IiNmZmQyN2QiIHN0cm9rZS13aWR0aD0iMC42Ii8+CiAgPHJlY3QgeD0iMTAxIiB5PSI0MyIgd2lkdGg9IjYiIGhlaWdodD0iNSIgcng9IjEuNSIgZmlsbD0iI2ZmNTUwMCIgc3Ryb2tlPSIjZmZkMjdkIiBzdHJva2Utd2lkdGg9IjAuNiIvPgoKICA8IS0tIEhvb2thaCBCb3dsIChIZWFkKSAtLT4KICA8cGF0aCBkPSJNODggNDggTDExMiA0OCBMMTA3IDYwIEw5MyA2MCBaIiBmaWxsPSJ1cmwoI2dvbGQpIi8+CiAgPCEtLSBBc2ggVHJheSAtLT4KICA8cGF0aCBkPSJNNzYgNjIgUTEwMCA2OCAxMjQgNjIgTDEyMCA2NiBRMTAwIDcxIDgwIDY2IFoiIGZpbGw9InVybCgjZ29sZCkiLz4KCiAgPCEtLSBEZWNvcmF0aXZlIFN0ZW0gLS0+CiAgPHJlY3QgeD0iOTYuNSIgeT0iNjYiIHdpZHRoPSI3IiBoZWlnaHQ9IjQ2IiByeD0iMiIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSI3NyIgcng9IjciIHJ5PSIzLjUiIGZpbGw9InVybCgjZ29sZCkiLz4KICA8ZWxsaXBzZSBjeD0iMTAwIiBjeT0iOTIiIHJ4PSI2IiByeT0iMyIgZmlsbD0idXJsKCNnb2xkKSIvPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxMDgiIHJ4PSI5IiByeT0iNCIgZmlsbD0idXJsKCNnb2xkKSIvPgoKICA8IS0tIEhvb2thaCBIb3NlIC0tPgogIDxwYXRoIGQ9Ik0xMDcgMTA5IEMxMzggMTEyLCAxNTIgMTM1LCAxMzggMTU4IEMxMjYgMTc2LCAxNTQgMTc2LCAxNjIgMTQyIEMxNjYgMTI1LCAxNjIgMTEwLCAxNTQgMTAyIgogICAgICAgIGZpbGw9Im5vbmUiIHN0cm9rZT0idXJsKCNnb2xkKSIgc3Ryb2tlLXdpZHRoPSI0LjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwhLS0gTW91dGhwaWVjZSAtLT4KICA8bGluZSB4MT0iMTU0IiB5MT0iMTAyIiB4Mj0iMTQ2IiB5Mj0iODgiIHN0cm9rZT0iI2Y5ZTc5ZiIgc3Ryb2tlLXdpZHRoPSIzLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgoKICA8IS0tIEdsYXNzIEJhc2UgKFZhc2UpIC0tPgogIDxwYXRoIGQ9Ik05MCAxMTIgTDExMCAxMTIgQzExMyAxMjUsIDEyOCAxNDIsIDEyOCAxNjAgQzEyOCAxNzUsIDExOCAxODIsIDEwMCAxODIgQzgyIDE4MiwgNzIgMTc1LCA3MiAxNjAgQzcyIDE0MiwgODcgMTI1LCA5MCAxMTIgWiIKICAgICAgICBmaWxsPSJ1cmwoI2dsYXNzKSIgc3Ryb2tlPSJ1cmwoI2dvbGQpIiBzdHJva2Utd2lkdGg9IjIiLz4KCiAgPCEtLSBMaXF1aWQgTGV2ZWwgaW5zaWRlIEJhc2UgLS0+CiAgPHBhdGggZD0iTTc0IDE1NiBRMTAwIDE2MiAxMjYgMTU2IEMxMjcgMTczLCAxMTcgMTgwLCAxMDAgMTgwIEM4MyAxODAsIDczIDE3MywgNzQgMTU2IFoiCiAgICAgICAgZmlsbD0iIzA5ODRlMyIgZmlsbC1vcGFjaXR5PSIwLjQ1Ii8+CgogIDwhLS0gR2xhc3MgSGlnaGxpZ2h0IC0tPgogIDxwYXRoIGQ9Ik04NCAxMjggQzgwIDE0MCwgNzggMTUyLCA4MSAxNjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KCiAgPCEtLSBCb3R0b20gQmFzZSBSaW5nIC0tPgogIDxlbGxpcHNlIGN4PSIxMDAiIGN5PSIxODIiIHJ4PSIyMiIgcnk9IjMiIGZpbGw9InVybCgjZ29sZCkiIG9wYWNpdHk9IjAuODUiLz4KPC9zdmc+"
+    },
+    {
+      "name": "سندويشة شاورما",
+      "desc": "",
+      "price": "20 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=300&q=80"
+    },
+    {
+      "name": "سندويشة شاورما دبل",
+      "desc": "",
+      "price": "30 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=300&q=80"
+    },
+    {
+      "name": "سندويشة شاورما سبيسيال",
+      "desc": "",
+      "price": "40 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&q=80"
+    },
+    {
+      "name": "سندويشة شيش",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=300&q=80"
+    },
+    {
+      "name": "سندويشة شيش سبيسيال",
+      "desc": "",
+      "price": "45 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&q=80"
+    },
+    {
+      "name": "سندويشة فروج",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=300&q=80"
+    },
+    {
+      "name": "سندويشة بطاطا",
+      "desc": "",
+      "price": "10 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300&q=80"
+    },
+    {
+      "name": "سندويشة بطاطا دبل",
+      "desc": "",
+      "price": "15 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1630384060421-cb20d0e0649d?w=300&q=80"
+    },
+    {
+      "name": "سندويشة كباب",
+      "desc": "",
+      "price": "25 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=300&q=80"
+    },
+    {
+      "name": "سندويشة كباب دبل",
+      "desc": "",
+      "price": "35 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=300&q=80"
+    },
+    {
+      "name": "سندويشة كريسبي",
+      "desc": "",
+      "price": "35 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=300&q=80"
+    },
+    {
+      "name": "سندويشة زنجر",
+      "desc": "",
+      "price": "45 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=300&q=80"
+    },
+    {
+      "name": "سندويشة اسكالوب",
+      "desc": "",
+      "price": "35 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f6?w=300&q=80"
+    },
+    {
+      "name": "سندويشة سوبريم",
+      "desc": "",
+      "price": "45 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=300&q=80"
+    },
+    {
+      "name": "برغر دجاج",
+      "desc": "",
+      "price": "30 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&q=80"
+    },
+    {
+      "name": "تشيز برغر دجاج",
+      "desc": "",
+      "price": "35 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=300&q=80"
+    },
+    {
+      "name": "سندويشة تويستر",
+      "desc": "",
+      "price": "40 ألف",
+      "category": "السندويشات",
+      "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=300&q=80"
+    },
+    {
+      "name": "وجبة شاورما دبل",
+      "desc": "",
+      "price": "65 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=300&q=80"
+    },
+    {
+      "name": "وجبة شاورما سبيسيال",
+      "desc": "",
+      "price": "60 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=300&q=80"
+    },
+    {
+      "name": "وجبة كريسبي",
+      "desc": "",
+      "price": "65 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=300&q=80"
+    },
+    {
+      "name": "وجبة زنجر",
+      "desc": "",
+      "price": "85 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?w=300&q=80"
+    },
+    {
+      "name": "وجبة اسكالوب",
+      "desc": "",
+      "price": "65 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f6?w=300&q=80"
+    },
+    {
+      "name": "وجبة سوبريم",
+      "desc": "",
+      "price": "85 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=300&q=80"
+    },
+    {
+      "name": "وجبة شيش",
+      "desc": "",
+      "price": "65 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=300&q=80"
+    },
+    {
+      "name": "وجبة فخد عالفحم",
+      "desc": "",
+      "price": "35 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=300&q=80"
+    },
+    {
+      "name": "وجبة بروستد (فروج كامل)",
+      "desc": "",
+      "price": "125 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=300&q=80"
+    },
+    {
+      "name": "وجبة بروستد (نصف فروج)",
+      "desc": "",
+      "price": "65 ألف",
+      "category": "الوجبات",
+      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&q=80"
+    },
+    {
+      "name": "فروج مشوي عالفحم",
+      "desc": "",
+      "price": "135 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?w=300&q=80"
+    },
+    {
+      "name": "فروج مشوي على السيخ",
+      "desc": "",
+      "price": "125 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=300&q=80"
+    },
+    {
+      "name": "فخاد (كيلو)",
+      "desc": "",
+      "price": "60 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=300&q=80"
+    },
+    {
+      "name": "جوانح (كيلو)",
+      "desc": "",
+      "price": "60 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=300&q=80"
+    },
+    {
+      "name": "شيش (كيلو)",
+      "desc": "",
+      "price": "135 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=300&q=80"
+    },
+    {
+      "name": "كباب فروج (كيلو)",
+      "desc": "",
+      "price": "85 ألف",
+      "category": "المشاوي",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=300&q=80"
+    },
+    {
+      "name": "مارينا (كيلو)",
+      "desc": "",
+      "price": "85 ألف",
+      "category": "المشاوي",
+      "image": "https://i.ibb.co/GQKvT81L/IMG-20261125-211905-535.jpg"
+    },
+    {
+      "name": "عرض العائلة",
+      "desc": "فروج على (السيخ أو فحم أو بروستد) + نصف كيلو شاورما + نصف كيلو ثوم + صحن بطاطا كبير + صحن مخللات + لتر كولا",
+      "price": "165 ألف",
+      "category": "العروض",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&q=80"
+    },
+    {
+      "name": "عرض الجامبو",
+      "desc": "5 قطع كريسبي + 5 قطع اسكالوب + 5 خراطيش شاورما + بطاطا مقلية + 2 علبة كريم ثوم + كول سلو + صوص كوكتيل + صحن مخللات + لتر كولا",
+      "price": "150 ألف",
+      "category": "العروض",
+      "image": "https://i.ibb.co/h1XWy1H0/IMG-20261125-211916-613.jpg"
+    },
+    {
+      "name": "عرض الميكس",
+      "desc": "كيلو فخاد + كيلو جوانح + نصف كيلو شيش",
+      "price": "155 ألف",
+      "category": "العروض",
+      "image": "https://i.ibb.co/HLhP2kq8/IMG-20261125-211803-561.jpg"
+    },
+    {
+      "name": "عرض التشيكن فور يو",
+      "desc": "15 قطعة كريسبي + صحن بطاطا + 3 علب كريم ثوم + صحن مخللات + صوص كوكتيل + كول سلو + لتر كولا",
+      "price": "155 ألف",
+      "category": "العروض",
+      "image": "https://i.ibb.co/LDvvDYDh/IMG-20261125-211755-463.jpg"
+    },
+    {
+      "name": "عرض التربل",
+      "desc": "15 قطعة كريسبي + صحن بطاطا + 3 علب كريم ثوم + صحن مخللات + صوص كوكتيل + كول سلو + لتر كولا",
+      "price": "155 ألف",
+      "category": "العروض",
+      "image": "https://i.ibb.co/60TC60st/IMG-20261125-211927-212.jpg"
+    },
+    {
+      "name": "عرض وجبة الغولدن",
+      "desc": "سندويشة شاورما + بطاطا + قطعة كريسبي + مخللات + كريم ثوم + كولا أو عيران",
+      "price": "35 ألف",
+      "category": "العروض",
+      "image": "https://i.ibb.co/cSybT1FH/IMG-20261125-211738-878.jpg"
+    }
+  ]
+}
