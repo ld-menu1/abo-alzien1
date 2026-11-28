@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795881136301,
+  "updatedAt": 1795881184156,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -419,7 +419,7 @@
       "desc": "",
       "price": "120 ألف",
       "category": "الوجبات",
-      "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=300&q=80"
+      "image": "./images/item_1795881178770_59_d1ik.jpg"
     },
     {
       "name": "وجبة بروستد (نصف فروج)",
