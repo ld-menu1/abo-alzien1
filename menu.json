@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876237796,
+  "updatedAt": 1795876249170,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -370,7 +370,7 @@
       "desc": "",
       "price": "60 ألف",
       "category": "الوجبات",
-      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=300&q=80"
+      "image": "./images/item_1795876247154_52_e2gf.jpg"
     },
     {
       "name": "وجبة كريسبي",
