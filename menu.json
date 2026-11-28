@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795875732673,
+  "updatedAt": 1795875923954,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -244,7 +244,7 @@
       "desc": "",
       "price": "20 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=300&q=80"
+      "image": "./images/item_1795875921155_34_mzq0.jpg"
     },
     {
       "name": "سندويشة شاورما دبل",
