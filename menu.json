@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876137617,
+  "updatedAt": 1795876158516,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -314,7 +314,7 @@
       "desc": "",
       "price": "35 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=300&q=80"
+      "image": "./images/item_1795876156345_44_oszk.jpg"
     },
     {
       "name": "سندويشة زنجر",
