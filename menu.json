@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876176786,
+  "updatedAt": 1795876187265,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -328,7 +328,7 @@
       "desc": "",
       "price": "35 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f6?w=300&q=80"
+      "image": "./images/item_1795876185091_46_1zqv.jpg"
     },
     {
       "name": "سندويشة سوبريم",
