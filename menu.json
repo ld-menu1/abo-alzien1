@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876352472,
+  "updatedAt": 1795876361602,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -391,7 +391,7 @@
       "desc": "",
       "price": "65 ألف",
       "category": "الوجبات",
-      "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f6?w=300&q=80"
+      "image": "./images/item_1795876359322_55_1x01.jpg"
     },
     {
       "name": "وجبة سوبريم",
