@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876095279,
+  "updatedAt": 1795876111425,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -286,7 +286,7 @@
       "desc": "",
       "price": "15 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300&q=80"
+      "image": "./images/item_1795876109299_40_081s.jpg"
     },
     {
       "name": "سندويشة بطاطا دبل",
