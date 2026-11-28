@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876249170,
+  "updatedAt": 1795876315103,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -377,7 +377,7 @@
       "desc": "",
       "price": "65 ألف",
       "category": "الوجبات",
-      "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?w=300&q=80"
+      "image": "./images/item_1795876312629_53_hpyy.jpg"
     },
     {
       "name": "وجبة زنجر",
