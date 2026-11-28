@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876121208,
+  "updatedAt": 1795876137617,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -307,7 +307,7 @@
       "desc": "",
       "price": "40 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=300&q=80"
+      "image": "./images/item_1795876135190_43_ts3m.jpg"
     },
     {
       "name": "سندويشة كريسبي",
