@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795875940485,
+  "updatedAt": 1795876054607,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -244,7 +244,7 @@
       "desc": "",
       "price": "20 ألف",
       "category": "السندويشات",
-      "image": "./images/item_1795875921155_34_mzq0.jpg"
+      "image": "./images/item_1795875949711_34_pj6u.jpg"
     },
     {
       "name": "سندويشة شاورما دبل",
@@ -265,7 +265,7 @@
       "desc": "",
       "price": "25 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=300&q=80"
+      "image": "./images/item_1795876052113_37_oxit.jpg"
     },
     {
       "name": "سندويشة شيش سبيسيال",
