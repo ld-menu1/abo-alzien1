@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795876187265,
+  "updatedAt": 1795876209780,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -342,7 +342,7 @@
       "desc": "",
       "price": "30 ألف",
       "category": "السندويشات",
-      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&q=80"
+      "image": "./images/item_1795876207468_48_kjuk.jpg"
     },
     {
       "name": "تشيز برغر دجاج",
