@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795881434536,
+  "updatedAt": 1795881584244,
   "items": [
     {
       "name": "بطاطا مقلية (وسط)",
@@ -440,7 +440,7 @@
       "desc": "",
       "price": "115 ألف",
       "category": "المشاوي",
-      "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?w=300&q=80"
+      "image": "./images/item_1795881579715_62_4h7o.jpg"
     },
     {
       "name": "فخاد (كيلو)",
